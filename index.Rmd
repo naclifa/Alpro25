@@ -1,6 +1,6 @@
 ---
 title: "Algoritma Pemograman"
-author: "Nadifa Aulia Hafiz - Institut Teknologi Statistika dan Bisnis Muhammadiyah"
+author: "Nadifa Aulia Hafiz - Institut Teknologi Statistika dan Bisnis Muhammadiyah (ITESA)"
 date: "`r Sys.Date()`"
 output: 
   html_document:
